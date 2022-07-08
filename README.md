@@ -5,8 +5,9 @@
 ### the model is mainly built by LSTM layers to recognize actions which includes some NBA player's iconic celebration moves.
 
 ### there are 5 iconic celebration moves can be recognized in this project:
+---
 
-- Finger wag 
+- Finger wag 0
 
 ![finger wag](https://user-images.githubusercontent.com/91415054/162032075-141ac148-3e51-4411-88d9-258d7150b429.jpg)
 
